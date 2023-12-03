@@ -13,9 +13,9 @@ After MARS is downloaded, download all files in the repository. Make sure that a
 Now you can start to play! Use the arrow keys on your keyboard to move the frog: Up (↑) to move forward, Down (↓) to move backward, Left (←) to move left, Right (→) to move right. You have three lives, and the goal is to jump to the frog-like positions across the river. When all 4 positions are filled, you win the game!
 
 ## History
- 
+
 Version 1.0 (2023.3.3) 
  
 ## Credits
 
-Jarrett Billingsley. Jarrett is the course lecture. He helped to set up the in-game objects and colors.
+Jarrett Billingsley. Jarrett is the course lecturer. He helped to set up the in-game objects and colors.
